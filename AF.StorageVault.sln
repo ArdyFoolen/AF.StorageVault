@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AF.StorageVault", "AF.StorageVault\AF.StorageVault.csproj", "{4B6395D3-D2EB-47FF-8D37-4EB7105B8462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B6395D3-D2EB-47FF-8D37-4EB7105B8462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B6395D3-D2EB-47FF-8D37-4EB7105B8462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B6395D3-D2EB-47FF-8D37-4EB7105B8462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B6395D3-D2EB-47FF-8D37-4EB7105B8462}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD240808-4745-403C-B835-232976EB2B16}
+	EndGlobalSection
+EndGlobal
